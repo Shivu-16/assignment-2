@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/assignment-2/static/css/main.0d942431.css",
+    "main.js": "/assignment-2/static/js/main.47913f63.js",
+    "static/js/787.8bb0473a.chunk.js": "/assignment-2/static/js/787.8bb0473a.chunk.js",
+    "static/media/Screenshot 2023-06-30 020604.png": "/assignment-2/static/media/Screenshot 2023-06-30 020604.78424dbc921d9f97b64e.png",
+    "static/media/Screenshot 2023-06-29 152015.png": "/assignment-2/static/media/Screenshot 2023-06-29 152015.a27bc4808d17e702a1b0.png",
+    "static/media/Screenshot 2023-06-29 151846.png": "/assignment-2/static/media/Screenshot 2023-06-29 151846.49ea12eed6d15987c2f5.png",
+    "static/media/Screenshot 2023-06-30 025427.png": "/assignment-2/static/media/Screenshot 2023-06-30 025427.ae78fe489a902a5c23b6.png",
+    "static/media/Screenshot 2023-06-30 014859.png": "/assignment-2/static/media/Screenshot 2023-06-30 014859.213356caf234f3bc13d7.png",
+    "index.html": "/assignment-2/index.html",
+    "static/media/chevron-down-solid.svg": "/assignment-2/static/media/chevron-down-solid.fd5f90d259cad6aba6e19ae5618fdb72.fd5f90d259cad6aba6e19ae5618fdb72.svg",
+    "main.0d942431.css.map": "/assignment-2/static/css/main.0d942431.css.map",
+    "main.47913f63.js.map": "/assignment-2/static/js/main.47913f63.js.map",
+    "787.8bb0473a.chunk.js.map": "/assignment-2/static/js/787.8bb0473a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d942431.css",
+    "static/js/main.47913f63.js"
+  ]
+}
